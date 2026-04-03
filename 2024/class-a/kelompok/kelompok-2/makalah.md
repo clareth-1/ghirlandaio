@@ -1,6 +1,9 @@
 # TEKNOLOGI SEBAGAI MITOS DAN HIPERREALITAS
 
+Dosen pengampu : Al Muhdil Karim, S.IP., M.Hum
+
 Disusun oleh :
+
 Kelompok 2
 1. Wulan Okta Rahmadani (12402051030005)
 2. Hazimah Azzah Putrimadita (12402051030043)
@@ -28,16 +31,28 @@ Selain itu, kemajuan teknologi juga menimbulkan kondisi hiperrealitas, yaitu bat
 4. Mengetahui perbedaan antara teknologi sebagai mitos dan teknologi sebagai alat menggunakan pengalaman internal dan terpersonalisasi.
 
 ## BAB 2 Pembahasan
-**1. Posisi Teknologi Sebagai Mitos**
+**2.1 Posisi Teknologi Sebagai Mitos**
 
+Apabila masa lalu menganggap mitos sebagai kepercayaan suatu hal yang pasti benar dengan melibatkan dewa-dewa atau makhluk supranatural lainnya, namun pada masa sekarang menganggap mitos tetap ada dan tidak hilang, tetapi bentuknya bukan lagi dalam cerita dongeng, atau legenda, melainkan dengan menggunakan lambang-lambang masa kini, seperti sains, iklan, hingga teknologi. (Barthes, 1991). Hal ini memberikan maksud bahwa pada masa kini, teknologi telah menjadi salah satu yang dapat dipercayai manusia sebagai mitos karena teknologi telah memberikan manusia suatu kebenaran dan langsung dipercayai tanpa tau kebenarannya.
 
-revisi
+Dalam buku Techgnosis : Myth, Magic, and Mysticisnm in the Age of Information, Davis menjelaskan bahwa seperti yang kita ketahui teknologi muncul karena adanya sains dan logika modern, namun sebenarnya dibalik itu ada sesuatu unsur lain, yakni unsur kepercayaan dan spiritualitas yang tersembunyi. Manusia tidak hanya menggunakan teknologi sebagai alat yang dapat mempermudah hidup, tetapi mempercainya juga secara emosional dan eksistensial. Hal ini menunjukkan bahwa teknologi merupakan sesuatu yang didalamnya terdapat unsur-unsur simbolik dan makna.
+
+Dalam hal ini, teknologi dapat memposisikannya sebagai mitos modern dengan melihat hubungan manusia dengan teknologi di masa sekarang. Teknologi kini telah menjadi suatu makna yang membentuk cara manusia memahami kebenaran, kenyataan, bahkan dirinya sendiri. Barthes (1991), berpendapat bahwa mitos membuat sesuatu yang sebenarnya merupakan hasil buatan manusia atau konstruksi sosial terlihat seperti hal yang nyata, wajar, bahkan seolah-olah memang sudah seharusnya seperti itu, sehingga manusia cepat mempercayai dan tidak mempermasalahkan hal itu.
+
+Menurut Davis (2015), teknologi sekarang sebenarnya menghidupkan kembali cara berpikir yang mirip dengan kepercayaan dulu, hanya saja dalam bentuk yang lebih modern. Tanpa kita sadari, manusia sering memaknai teknologi secara lebih mendalam terhadap internet. Dalam hal ini, manusia tidak lagi menggunakan teknologi secara rasional, namun juga mempercayainya secara berlebihan, dan mengira bahwa teknologi dapat memberikan jawaban, keputusan, bahkan sebagai penyelamat dari berbagai masalah hidup.
 
 
 **2. Teknologi dalam Sudut Pandang Hiperrealitas**
 
+Substansi teknologi dari sudut pandang hiperrealitas dapat di pahami sebagai perubauhan peran teknologi dalam kehidupan manusia. Dulu teknologi hanya dianggap sebagai alat bantu, dalam konsep hiperrealitas teknologi justru menjadi sesuatu yang membentuk cara kita melihat dan memahami realitas itu sendiri. Jean Baudrillard berpendapat bahwa teknologi tidak lagi sekedar menampilkan kenyataan, tetapi sudah masuk ke tahap menciptakan kenyataan versi baru yang disebut simulasi. 
 
-revisi
+Simulasi ini dapat dipahami sebagai proses di mana sesuatu yang terlihat nyata sebenarnya di buat dari model atau sistem, bukan dari kejadian yang sebenarnya. jadi, apa yang kita lihat hari ini terutama melihat di media dan teknologi digital sering kali bukanlah realitas yang sebenarnya tapi hasil konstruksi
+Teknologi juga menghasilkan sejenis tiruan atau simulakra. Menariknya tiruan ini bukan cuma meniru realitas, tetapi juga bisa menggantikan kenyataan itu sendiri. Contohnya di media sosial atau dunia digital banyak hal yang terlihat nyata, atau bahkan sepenuhnya dinuat-buat. Akibatnya, batas antara yang asli dan yang tidak asli jadi semakin sulit dibedakan
+
+Dalam kondisi ini, tanda atau simbol tidak lagi terhubung pada sesuatu yang nyata. tanda-tanda tersebut hanya saling berkaitan satu sama lain tanapa adanya realitas yang jelas. jadi manusia seperti hidup di dunia yang penuh representasi, tetapi kehilangan referensi yang nyata.
+Selain itu, teknologi memungkinkan realitas diproduksi dan diulang terus menerus. hal-hal yang di tampilkan berulang akhirnya dianggap sebagai kebenaran. jadi, realitas sekarang tidak lagi unik atau asli, tapi lebih seperti hasil produksi yang bisa di kontrol.
+
+Pada akhirnya, manusia jadi semakin bergantung pada teknologi untuk memahami dunia. apa yang dia anggap bentar atau nyata sering kali ditemukan dengan teknologi, bukan dari pengalaman langsuang. karena itu, realitas yang kita alami sekarang bisa dibilang sudah masuk ke tahap hipperrealitas, yaitu realitas buatan yang terasa lebih nata dari pada kenyataan sebenernya
 
 **3. Contoh Kasus Berdasarkan Pengalaman Pribadi**
 
@@ -53,9 +68,9 @@ Untuk memahami konsep hiperrealitas secara lebih konkret, fenomena ini dapat dil
 
 Perkembangan teknologi di era sekarang mengalami perubahan yang cukup signifikan, tidak hanya sebagai alat bantu manusia tetapi juga sebagai kekuatan yang mampu merubah cara manusia memahami realitas atau kenyataan. Dalam perspektif Homo Deus teknologi telah berkembang menjadi alat yang tidak hanya membantu aktivitas manusia, tetapi juga membantu cara mereka berpikir dan mengambil keputusan. Hal ini dapat di analisis melalui dua sudut pandang, yaitu teknologi sebagai mitos dan teknologi sebagai alat, yang memiliki perbedaan mendasar dalam hal posisi kendali dan tingkat kepercayaan manusia terhadap teknologi.
 
-Dalam sudut pandang sebagai mitos, teknologi bisa diartikan sebagai kepercayaan baru yang selalu dianggap benar dan hampir mutlak oleh manusia tanpa memikirkan kebenaran aslinya. Kita bisa amati di kehidupan sehari-hari dalam penggunaan platform digital seperti TikTok atau Instagram. Algoritma yang ada pada platform tersebut terus merekomendasikan konten-konten dari perilaku pengguna, lalu membentuk preferensi dan kebiasaan dari pengguna itu sendiri. Pengguna cenderung akan mempercayai rekomendasi dari algoritma tersebut dan merasa bahwa teknologi lebih memahami dirinya sendiri.
+Dalam sudut pandang sebagai mitos, teknologi bisa diartikan sebagai sistem kepercayaan baru dan tidak menempatkan teknologi sebagai objek lagi. Manusia tidak lagi mempertanyakan teknologi tetapi menerimanya sebagai kebenaran yang sudah seharusnya ada. Kita bisa amati di kehidupan sehari-hari dalam AI dimana manusia menganggap sistem tersebut sebagai sumber kebenaran yang mutlak. Ketika seseorang menanyakan gejala penyakit kepada AI dan langsung percaya pada hasil pertama tanpa bertanya dengan dokter.
 
-Dalam sudut pandang teknologi sebagai alat, teknologi masih berkaitan dengan fungsi awalnya yaitu untuk memudahkan manusia dalam beraktivitas sehari-hari. Hal ini dapat dilihat ketika menggunakan aplikasi Google untuk mencari sebuah informasi dan memudahkan membuat tugas. Dalam kondisi ini, manusia masih menjadi pengambilan keputusan dan memegang kendali penuh atas teknologi dan teknologi hanya berperan sebagai pendukung untuk mempercepat dan mempermudah mkehidupan manusia.
+Sementara itu sudut pandang teknologi sebagai alat, teknologi masih berkaitan dengan fungsi awalnya yaitu untuk memudahkan manusia dalam beraktivitas sehari-hari. Hal ini dapat dilihat ketika kita menggunakan aplikasi Word, Excel, Canva, dan lain-lain untuk memudahkan manusia mengerjakan tugas. Dalam kondisi ini, manusia masih menjadi pengambilan keputusan dan memegang kendali penuh atas teknologi dan teknologi hanya berperan sebagai pendukung untuk mempercepat dan mempermudah mkehidupan manusia.
 
 Perbedaan antara kedua sudut pandang tersebut bisa dilihat dari cara manusia menempatkan dirinya dalam berhubungan dengan teknologi. Ketika teknologi diposisikan sebagai alat, manusia memiliki kendali penuh dan berperan sebagai pengambil keputusan. Sedangkan pada teknologi sebagai mitos posisi tersebut mulai bergeser, dimana teknologi mulai memegang kendali dan memengaruhi cara manusia berpikir dan bertindak.
 
