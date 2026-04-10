@@ -1,7 +1,7 @@
 Nama: Rizkyna Amor Zevia
 NIM: 12402051030042
 
-  #Bagaimana Pola Hubungan Antara Open Source dan Closed Source
+  Bagaimana Pola Hubungan Antara Open Source dan Closed Source
 
   Pada masa awal perkembangan, pergembangan perangkat lunak di dominasi oleh model katedraL. Model ini bersifat tertutup (closed source) dikembangkan dan keamanannya dijaga tetat.Seiring munculnya teknologi seperti internet lahirlah pengembangan model bazzar, model ini mengedepankan keterbukaan (open source), di mana kode atau program pengembang tersedia bagi semua orang
   Perdebatan antara kedua model ini sering kali ditemukan, open source dan closed source tentu saja punya kelebihan dan kekurangan masing-masing
