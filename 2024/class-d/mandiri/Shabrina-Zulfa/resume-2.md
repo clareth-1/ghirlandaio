@@ -1,4 +1,4 @@
-# Resume Peran Negara Dalam Perkembangan Teknologi Pada Era 1960-an
+# Resume Materi Peran Negara Dalam Perkembangan Teknologi Pada Era 1960-an
 ## Nama: Shabrina Zulfa
 ## NIM: 12402051010024
 ## Mata Kuliah: Perpustakaan dan Arsip Digital
