@@ -13,7 +13,7 @@ Mengapa hak kepemilikan menjadi faktor penting dalam pengembangan closed source?
 Jawaban yang diberikan menyatakan bahwa hak kepemilikan penting karena perusahaan memiliki kontrol penuh terhadap kode yang mereka buat. Dengan adanya kontrol tersebut, kode tidak dapat diakses atau disalin secara bebas, sehingga inovasi tetap terlindungi. Selain itu, hak kepemilikan juga memungkinkan perusahaan memperoleh keuntungan, yang menjadi motivasi untuk terus mengembangkan teknologi.
 
 Konteks ini ada dari pembahasan mengenai perbedaan open source dan closed source, khususnya dalam aspek kepemilikan, kontrol, dan tujuan ekonomi.
-## Opinis dan Argumen
+## Opini dan Argumen
 Saya setuju bahwa hak kepemilikan menjadi faktor krusial dalam perkembangan closed source. Hal ini disebabkan karena dalam makalah tersebut dijelaskan bahwa closed source fokus pada kepemilikan dan keuntungan finansial, di mana perusahaan memiliki kontrol penuh atas kode yang mereka ciptakan.
 
 Secara argumentatif, hak kepemilikan diperlukan untuk menjaga kekayaan intelektual agar tidak disalin atau dimanfaatkan tanpa izin oleh pihak lain. Tanpa perlindungan itu, perusahaan tidak memiliki kepastian mengenai hasil inovasi yang mereka ciptakan.
